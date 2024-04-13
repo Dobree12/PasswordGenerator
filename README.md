@@ -16,4 +16,4 @@ A simple command-line password generator written in C++. This tool allows you to
 
   ## Created by Dobree12.
 
-Feel free to contribute or customize the game to your liking!
+Feel free to contribute or customize the project to your liking!
